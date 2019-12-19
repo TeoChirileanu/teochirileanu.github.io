@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Want to read the greatest and the latest updates on .NET? You've come to the right place!
