@@ -1,12 +1,25 @@
-title: 'Softeam C# Community'
+title: "Softeam C# Community"
 email: StartechDotNet@softeam.fr
-description: 'This blog contains posts from various members of Softeam''s C# Community.'
+description: >-
+  This blog contains posts from various members of Softeam's C# Community
+  treating subjects like C#, .NET, PowerShell and programming in general.
+
 twitter_username: SOFConsulting
 github_username: softeamgroup
+
 markdown: kramdown
 theme: minima
+
+google-analytics: UA-154937398-1
+show_excerpts: true
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+disqus:
+  shortname: teochirileanu-github-com
+
 exclude:
   - Gemfile
   - Gemfile.lock

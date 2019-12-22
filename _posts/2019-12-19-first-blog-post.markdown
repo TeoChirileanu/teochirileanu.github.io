@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "First Blog Post"
-date:   2019-12-19
-categories: softeam csharp dotnet
+categories: posts
+author: Teodor
 ---
 
 My first blog post. More to come ^_^
