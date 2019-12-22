@@ -279,7 +279,7 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-feed (~> 0.6)
-  jekyll-theme-cayman
+  jekyll-seo-tag
   tzinfo-data
 
 BUNDLED WITH
