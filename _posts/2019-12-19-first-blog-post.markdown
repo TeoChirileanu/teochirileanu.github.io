@@ -1,7 +1,6 @@
 ---
+title: Hello World!
 layout: post
-title:  "First Blog Post"
-categories: posts
 author: Teodor
 ---
 
