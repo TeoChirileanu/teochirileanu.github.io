@@ -5,11 +5,7 @@ layout: post
 categories: programming, architecture
 ---
 
-## Intro
-
-Clean Architecture represents a collection of patterns, practices, and principles used to create modern, high quality and elegant software systems that are simple to understand, flexible, testable and maintainable.
-
-Clean Architecture is a robust alternative to the traditional 3-layer, database-centric architecture, which has been used for decades and is known for its limitations.
+Clean Architecture represents a collection of patterns, practices, and principles used to create modern, high quality and elegant software systems that are simple to understand, flexible, testable and maintainable. Clean Architecture is a robust alternative to the traditional 3-layer, database-centric architecture, which has been used for decades and is known for its limitations.
 
 ## The Goal of Software Architecture
 
