@@ -1,12 +1,11 @@
 How to add a new article:
 
-* Install Jekyll requirements
-* `gem install jekyll bundler`
-* Install [Jekyll](https://jekyllrb.com/docs/installation/) after 
-* Clone the [repo](https://github.com/TeoChirileanu/teochirileanu.github.io.git) and test the app locally: `bundle exec jekyll serve`
-* Create a new article in the __drafts_ folder
-* Work on it until satisfied (using your favorite [code editor](https://www.elegantthemes.com/blog/resources/best-code-editors) and [grammarly](https://www.grammarly.com/))
-* Preview the article locally: `bundle exec jekyll serve --drafts` and make sure everything looks good
+* Install [Jekyll](https://jekyllrb.com/docs/installation/)
+* Clone the [repo](https://github.com/TeoChirileanu/teochirileanu.github.io.git)
+* Run the app locally: `bundle exec jekyll serve`
+* Go to [administration page](http://localhost:4000/admin/collections/posts/)
+* Create a new article via the GUI
+![alt text](https://ibb.co/4WBDxH2 "Jekyll GUI")
 * Commit and push your changes
 * Ask one of your colleagues to review your newly published article
 * After approval, move it from __drafts_ to __posts_
