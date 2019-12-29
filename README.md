@@ -1,6 +1,8 @@
 How to add a new article:
 
-* Install [Jekyll](https://jekyllrb.com/docs/installation/)
+* Install Jekyll requirements
+* `gem install jekyll bundler`
+* Install [Jekyll](https://jekyllrb.com/docs/installation/) after 
 * Clone the [repo](https://github.com/TeoChirileanu/teochirileanu.github.io.git) and test the app locally: `bundle exec jekyll serve`
 * Create a new article in the __drafts_ folder
 * Work on it until satisfied (using your favorite [code editor](https://www.elegantthemes.com/blog/resources/best-code-editors) and [grammarly](https://www.grammarly.com/))
